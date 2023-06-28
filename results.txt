@@ -1,12 +1,17 @@
-Hello, Congratulations for solving the Gambit challenge. Please send your solution and CV to icancode@gambitresearch.com quoting reference: 7753afae07
-shifts for above [83, 241, 137]
-Hkmlu- Ipnmsazvlguiuos&gox!sumvoog&uhk!Ggnbou iiarmethe4!Prfayf yfnj!yuvr&torvtopn&bnj!C\!tu!iibnipdkAggnbourktegscn/cun wvozjnm!rkgexfnif:&87;4albe68
-shifts for above [83, 235, 136]
-Lmopw/$Krroue|xpiwmwqw(isz#wwozqqk(wlm#Kipfqw$kketoivji6#Tthe{h${hrl#}wxv(vstxxqrr(drl#G^#xw#mkdrkrhmCkipfqwvmviiugp1gwp$yxs|lro#vmiizhrkh>(:;=6endi8:
-shifts for above [79, 233, 134]
-Leqpo1$Ctrgwetzpaymosw ksr%woqzisk yle%Karfiy$cmelqinli.%Tljesj$sjrd%}ozv xslzxitr frd%GV%xo%mcfrctheEkarfiyvexiawgh3gor$qzstnrg%vekirjrcj> <;58effi0<
-shifts for above [79, 241, 132]
-Kimos-#Gpqksdxvoeulsov$grv!vsmymoj$uki!Jenemu#gidpmhrhh2!Spfdwf#wfqh!|svu$trpvwmpq$bqh!FZ!ws!lgbqgpgiAjenemuuithesfl/fsn#uvrxjqk!uighvfqgf=$8:94djbh48
-shifts for above [80, 237, 136]
-Njlrt,&Hotlrgyurftotny%fuw ytl|nnm%tnj Mfmhnt&hhgqlksgk3 Vqegxe&xeti ⌂tux%suquznot%ati I[ zt ohathojj@mfmhntxjskfrim.itm&vuuyitl xjfkwethe@%7=:3gkak57
-shifts for above [77, 236, 137]
+Hello, Congratulations for solving the Gambit challenge. Please send your solution and CV to icancode@gambitresearch.com quoting reference: af0a47a570
+shifts for above [150, 172, 221]
+
+Hkmlu- Ipnmsazvlguiuos&gox!sumvoog&uhk!Ggnbou iiarmethe4!Prfayf yfnj!yuvr&torvtopn&bnj!C\!tu!iibnipdkAggnbourktegscn/cun wvozjnm!rkgexfnif:&bf6b4=b5=1
+shifts for above [150, 166, 220]
+
+Lmopw/$Krroue|xpiwmwqw(isz#wwozqqk(wlm#Kipfqw$kketoivji6#Tthe{h${hrl#}wxv(vstxxqrr(drl#G^#xw#mkdrkrhmCkipfqwvmviiugp1gwp$yxs|lro#vmiizhrkh>(dj8d8?d9?3
+shifts for above [146, 164, 218]
+
+Leqpo1$Ctrgwetzpaymosw ksr%woqzisk yle%Karfiy$cmelqinli.%Tljesj$sjrd%}ozv xslzxitr frd%GV%xo%mcfrctheEkarfiyvexiawgh3gor$qzstnrg%vekirjrcj> fj0f87f975
+shifts for above [146, 172, 216]
+
+Kimos-#Gpqksdxvoeulsov$grv!vsmymoj$uki!Jenemu#gidpmhrhh2!Spfdwf#wfqh!|svu$trpvwmpq$bqh!FZ!ws!lgbqgpgiAjenemuuithesfl/fsn#uvrxjqk!uighvfqgf=$bi4b7;b8;1
+shifts for above [147, 168, 220]
+
+Njlrt,&Hotlrgyurftotny%fuw ytl|nnm%tnj Mfmhnt&hhgqlksgk3 Vqegxe&xeti ⌂tux%suquznot%ati I[ zt ohathojj@mfmhntxjskfrim.itm&vuuyitl xjfkwethe@%al5a:<a;<0
+shifts for above [144, 167, 221]
